@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v2Talal
 - 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... everything good
+- 🌱 I’m currently learning ... everything but it's good only
 - 💞️ I’m looking to collaborate on .........................................
 - 📫 How to reach me On my Website..  https://v2talal.com
 
