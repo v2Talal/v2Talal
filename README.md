@@ -6,21 +6,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=v2talal&label=Profile%20views&color=0e75b6&style=flat" alt="v2talal" /> </p>
 <p align="center"> <a href="https://twitter.com/v2talal" target="blank"><img src="https://img.shields.io/twitter/follow/v2talal?logo=twitter&style=for-the-badge" alt="v2talal" /></a> </p>
 
-- 🔭 I’m currently working on **[me]**
+- 🔭 I’m currently working on: **[me]**
 
-- 🌱 I’m currently learning **[evrything]**
+- 🌱 I’m currently learning: **[everything]**
 
-- 👯 I’m looking to collaborate on **[my..]**
+- 👯 I’m looking to collaborate on: **[my..]**
 
-- 👨‍💻 All of my projects are available at **[my heart]**
+- 👨‍💻 All of my projects are available at: **[my heart]**
 
-- 📝 I regularly write articles on **[mind]**
+- 📝 I regularly write articles on: **[mind]**
 
-- 💬 Ask me about **[Ask me]**
+- 💬 Ask me about: **[Ask me]**
 
-- 📫 How to reach me **[https://v2Talal.com]**
+- 📫 How to reach me: **[https://v2Talal.com]**
 
-- ⚡ Fun fact **[I think I am not funny]**
+- ⚡ Fun fact: **[I think I am not funny]**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
