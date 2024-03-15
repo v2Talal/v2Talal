@@ -19,7 +19,6 @@
 
 - 📫 How to reach me: **[https://v2Talal.com]**
 
-- ⚡ Fun fact: **[I think I am not funny]**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
