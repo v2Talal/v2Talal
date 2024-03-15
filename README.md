@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Talal</h1>
-<h3 align="center">did you know me? ohh ok:( 
-  i Love You</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=v2talal&label=Profile%20views&color=0e75b6&style=flat" alt="v2talal" /> </p>
 <p align="center"> <a href="https://twitter.com/v2talal" target="blank"><img src="https://img.shields.io/twitter/follow/v2talal?logo=twitter&style=for-the-badge" alt="v2talal" /></a> </p>
