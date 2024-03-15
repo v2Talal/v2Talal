@@ -1,4 +1,3 @@
-![57da8b2f2756ed536cc93886ab5c51ad](https://user-images.githubusercontent.com/102476581/161404096-183f0201-e7a7-43dc-82e1-cbca7f97928f.gif)     
 <h1 align="center">Hi, I'm Talal</h1>
 <h3 align="center">did you know me? ohh ok:( 
   i Love You</h3>
