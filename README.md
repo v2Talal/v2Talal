@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at: **[my heart]**
 
-- 📝 I regularly write articles on: **[mind]**
-
 - 💬 Ask me about: **[Ask me]**
 
 - 📫 How to reach me: **[https://v2Talal.com]**
