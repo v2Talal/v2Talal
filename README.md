@@ -28,7 +28,33 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java"/></a><a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust"/></a><a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux"/></a><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash"/></a><a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go"/></a><a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js"/></a><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a><a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm"/></a><a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html"/></a><a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet"/></a><a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"/></a>
+<table align="center">
+
+<tr>
+<td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a></td>
+<td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java"/></a></td>
+<td><a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust"/></a></td>
+<td><a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux"/></a></td>
+<td><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a></td>
+<td><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash"/></a></td>
+</tr>
+
+<tr>
+<td><a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go"/></a></td>
+<td><a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js"/></a></td>
+<td><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a></td>
+<td><a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm"/></a></td>
+<td><a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html"/></a></td>
+<td><a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet"/></a></td>
+</tr>
+
+<tr>
+<td colspan="6" align="center">
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"/></a>
+</td>
+</tr>
+
+</table>
 </p>
 
 ---
