@@ -9,6 +9,37 @@
 
 ---
 
+> This is much deeper than you realize.
+
+$$
+K \subsetneq T
+\quad\mid\quad
+\exists x \in T \setminus K
+$$
+
+$$
+\forall P:\quad
+\text{Proof}(P)
+\lor
+\text{Counterexample}(P)
+\lor
+\text{Open}(P)
+$$
+
+$$
+\mathbb{F}_p
+\cdot
+\text{End}(E)
+\cdot
+\text{Complexity}
+$$
+
+$$
+\boxed{\text{Truth} \neq \text{Consensus}}
+$$
+
+---
+
 ### ⚡ Mindset
 
 <p align="center">
